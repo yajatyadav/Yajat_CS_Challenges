@@ -2,6 +2,8 @@
 
 # Yajat Challenges for Trimester 2
 
+## [Data Structures Final Review Ticket](https://github.com/yajatyadav/Yajat_CS_Challenges/issues/1#issue-1198275857)
+
 [Review Ticket 3 (Crossover Grading by Ishan)](https://github.com/yajatyadav/Yajat_Challenges/issues/4)
 
 [Review Ticket 2 (Crossover Grading by Nick)](https://github.com/yajatyadav/Yajat_Challenges/issues/3)
