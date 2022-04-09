@@ -1,6 +1,6 @@
-package com.company;
-import com.company.TT2.*;
-import com.company.TT3.*;
+package src.com.company;
+
+
 
 import java.io.*;
 import java.util.Scanner;
