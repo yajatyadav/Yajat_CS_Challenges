@@ -20,7 +20,7 @@
 - In class and at home, I will focus on revisiting these weak areas by going back to the videos, looking at my Journal notes, and trying out specific progress checks again
 
 # Friday
--In class, to get more FRQ practice, I will complete a few practice FRQs and make sure to handwrite them
+- In class, to get more FRQ practice, I will complete a few practice FRQs and make sure to handwrite them
 - I will peer grade these FRQs: this way I will be able to get feedback form another student as well as see how a peer approached the same problem 
 
 # Resources and Ideas
