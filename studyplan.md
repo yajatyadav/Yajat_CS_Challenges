@@ -12,6 +12,17 @@
 
 # Wednesday
 - In class, I will review the missed questions on Tuesday's MC and go over concepts I struggled with
-
+- At home, I will try practicing with some FRQs. I will use pencil and paper to get accustomed to the exam format, and look at the Barron's book as well as AP Classroom for sample FRQs
 
 # Thursday
+- In class, 
+
+# Friday
+-
+
+# Resources and Ideas
+- Try writing all of the different sorts and data structures by myself
+- Barron's AP Review Book- read over summaries, unit problems, practice tests
+- AP Classroom: progress checks, sample tests, and concept videos
+- Journals from earlier trimesters: these contain my notes for all of the College Board topics
+- I can also go to College Board's website to find past examinations
