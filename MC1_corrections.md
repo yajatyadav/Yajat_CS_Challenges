@@ -21,3 +21,4 @@
 - For each row-col, the board first initialized to "O"
 - then for val = 1 for all columns and row 0,1, set an "X"
 - then for val = 3, for all columns and 
+
